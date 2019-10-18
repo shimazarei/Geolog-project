@@ -1,2 +1,2 @@
 # Geolog-project
-Handling time-series dataset
+Handling time-series dataset correspoded to electronic drill device of Geolog company of Milan,Italy which is utilized for excavating gas and petrol from earth. This data are recorder from sensors of this drill which indicats the changes of amount of each parameter related to performance of this device over time. In this project the aim is to detect the noise and removing them and also classifying data to forecast the future of data in order to preserve the safety of this this.
